@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "d9yyayHipoiFWj7P7mjBGqfJhYcqPyPJ7em/gNYadBQ=",
+  "Source": "DotNet_Core_E_Commerce",
+  "BasePath": "_content/DotNet_Core_E_Commerce",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
